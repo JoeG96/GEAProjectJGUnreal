@@ -1,0 +1,13 @@
+[1025/194941.425:WARNING:extension_protocols.cc(464)] Failed to GetPathForExtension: pkedcjkdefgpdelpbcmbmeomcjbeemfm
+[1025/194941.425:WARNING:url_request_job_manager.cc(90)] Failed to map: chrome-extension://pkedcjkdefgpdelpbcmbmeomcjbeemfm/cast_sender.js
+[1025/194941.442:WARNING:extension_protocols.cc(464)] Failed to GetPathForExtension: enhhojjnijigcajfphajepfemndkmdlo
+[1025/194941.442:WARNING:url_request_job_manager.cc(90)] Failed to map: chrome-extension://enhhojjnijigcajfphajepfemndkmdlo/cast_sender.js
+[1025/195451.818:WARNING:extension_protocols.cc(464)] Failed to GetPathForExtension: pkedcjkdefgpdelpbcmbmeomcjbeemfm
+[1025/195451.818:WARNING:url_request_job_manager.cc(90)] Failed to map: chrome-extension://pkedcjkdefgpdelpbcmbmeomcjbeemfm/cast_sender.js
+[1025/195451.834:WARNING:extension_protocols.cc(464)] Failed to GetPathForExtension: enhhojjnijigcajfphajepfemndkmdlo
+[1025/195451.834:WARNING:url_request_job_manager.cc(90)] Failed to map: chrome-extension://enhhojjnijigcajfphajepfemndkmdlo/cast_sender.js
+[1025/200819.978:WARNING:extension_protocols.cc(464)] Failed to GetPathForExtension: pkedcjkdefgpdelpbcmbmeomcjbeemfm
+[1025/200819.978:WARNING:url_request_job_manager.cc(90)] Failed to map: chrome-extension://pkedcjkdefgpdelpbcmbmeomcjbeemfm/cast_sender.js
+[1025/200819.995:WARNING:extension_protocols.cc(464)] Failed to GetPathForExtension: enhhojjnijigcajfphajepfemndkmdlo
+[1025/200819.995:WARNING:url_request_job_manager.cc(90)] Failed to map: chrome-extension://enhhojjnijigcajfphajepfemndkmdlo/cast_sender.js
+[1108/162453.038:WARNING:dns_config_service_win.cc(661)] Failed to read DnsConfig.
