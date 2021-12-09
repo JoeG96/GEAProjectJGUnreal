@@ -11,3 +11,5 @@
 [1025/200819.995:WARNING:extension_protocols.cc(464)] Failed to GetPathForExtension: enhhojjnijigcajfphajepfemndkmdlo
 [1025/200819.995:WARNING:url_request_job_manager.cc(90)] Failed to map: chrome-extension://enhhojjnijigcajfphajepfemndkmdlo/cast_sender.js
 [1108/162453.038:WARNING:dns_config_service_win.cc(661)] Failed to read DnsConfig.
+[1119/181238.389:WARNING:dns_config_service_win.cc(661)] Failed to read DnsConfig.
+[1119/181243.394:WARNING:dns_config_service_win.cc(661)] Failed to read DnsConfig.
